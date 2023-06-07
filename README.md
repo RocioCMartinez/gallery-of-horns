@@ -2,6 +2,39 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tracking Features
+
+Number and name of feature: Feature#1: Display Images
+
+Estimate of time needed to complete: 40 mins
+
+Start time: 19:30
+
+Finish time: 19:50
+
+Actual time needed to complete: 20 mins
+
+Number and name of feature: Feature#2: Allow Users to Favorite
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 19:50
+
+Finish time: 20:30
+
+Actual time needed to complete: 30 mins/took 10 min break
+
+Number and name of feature: Feature#3:Bootstrap
+
+Estimate of time needed to complete: 40 mins
+
+Start time: 20:35
+
+Finish time: 21:10
+
+Actual time needed to complete: 35 mins
+
+
 ## Available Scripts
 
 In the project directory, you can run:
