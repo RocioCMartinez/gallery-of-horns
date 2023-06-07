@@ -1,0 +1,6 @@
+main {
+  background-color: rgba(226, 111, 226, 0.516);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
