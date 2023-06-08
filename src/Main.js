@@ -10,7 +10,7 @@ class Main extends React.Component{
     <main>
       
       {this.props.data.map(beastObj => {
-        return <HornedBeast title={beastObj.title} image_url={beastObj.image_url} description={beastObj.description} addRainbows={this.props.addRainbows} handleOpenModal={this.props.handleOpenModal}/>
+        return <HornedBeast key={beastObj._id} title={beastObj.title} image_url={beastObj.image_url} description={beastObj.description} addRainbows={this.props.addRainbows} handleOpenModal={this.props.handleOpenModal}/>
       })}
 
      

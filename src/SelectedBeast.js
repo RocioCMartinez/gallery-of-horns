@@ -8,12 +8,12 @@ class SelectedBeast extends React.Component {
 
   render() {
     return (
-          <Modal show={this.props.showModal} onHide={this.props.handleCloseModal}>
+          <Modal  show={this.props.showModal} onHide={this.props.handleCloseModal}>
             <Modal.Header closeButton>
               <Modal.Title>{this.props.beastTitle}</Modal.Title>
             </Modal.Header>
 
-            <Card style={{ width: '18rem' }}>
+            <Card style={{ width: '30rem'}} >
               <Card.Body>
 
                 <Card.Img
