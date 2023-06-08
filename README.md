@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Reasources
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [mdn web docs](https://developer.mozilla.org/en-US/)
+- [React Bootstrap](https://react-bootstrap.netlify.app/)
+- [emoji finder](https://emojifinder.com/)
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- Code contributions from; Alex Chao, Brandon Mizutani, Stephen Clemmer, Audrey Patterson
 
 ## Tracking Features
 
@@ -43,6 +49,16 @@ Start time: 19:00
 Finish time: 22:00
 
 Actual time needed to complete: 180 mins
+
+Number and name of feature: Feature#5:Filter by Number of Horns
+
+Estimate of time needed to complete: 120 mins
+
+Start time: 17:15
+
+Finish time: 19:30
+
+Actual time needed to complete: 120 mins / 15 min break
 
 ## Available Scripts
 
